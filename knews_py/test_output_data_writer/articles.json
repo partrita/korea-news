@@ -1,0 +1,26 @@
+[
+    {
+        "id": "guid1",
+        "title": "Article 1 Title",
+        "link": "http://example.com/1",
+        "published": "2023-04-25T10:00:00+00:00",
+        "published_normalized": "2023-04-25T10:00:00+00:00",
+        "summary": "Summary of article 1.",
+        "summary_cleaned": "Summary of article 1.",
+        "source_feed_title": "Test Feed",
+        "source_feed_url": "http://example.com/rss",
+        "extra_field_not_in_csv": "test_value"
+    },
+    {
+        "id": "guid2",
+        "title": "Article 2 Title",
+        "link": "http://example.com/2",
+        "published": "2023-04-24T12:30:00+00:00",
+        "published_normalized": "2023-04-24T12:30:00+00:00",
+        "summary": "<p>HTML Summary</p>",
+        "summary_cleaned": "HTML Summary",
+        "source_feed_title": "Another Feed",
+        "source_feed_url": "http://example.com/other_rss",
+        "author": "John Doe"
+    }
+]

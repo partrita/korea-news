@@ -1,0 +1,3 @@
+id,title,link,published,published_normalized,summary,summary_cleaned,source_feed_title,source_feed_url
+guid1,Article 1 Title,http://example.com/1,2023-04-25T10:00:00+00:00,2023-04-25T10:00:00+00:00,Summary of article 1.,Summary of article 1.,Test Feed,http://example.com/rss
+guid2,Article 2 Title,http://example.com/2,2023-04-24T12:30:00+00:00,2023-04-24T12:30:00+00:00,<p>HTML Summary</p>,HTML Summary,Another Feed,http://example.com/other_rss

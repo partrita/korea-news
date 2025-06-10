@@ -1,0 +1,4 @@
+id,name,type,url
+cnn,CNN,News,http://cnn.com
+fox,Fox News,News,http://foxnews.com
+npr,NPR News,News,http://npr.org
